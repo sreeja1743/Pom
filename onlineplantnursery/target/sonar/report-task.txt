@@ -1,0 +1,6 @@
+projectKey=com.ec:onlineplantnursery
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.ec:onlineplantnursery
+ceTaskId=AXnh-A7wZIpLHInalL1H
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXnh-A7wZIpLHInalL1H
